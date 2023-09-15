@@ -7,11 +7,14 @@ function App() {
 
   return (
     <>
-      <center className='center'><button className="btn">
-        <span className="loading loading-spinner"></span>
+      <center className='center'>
+        <button className="btn">
+        <span className="loading loading-spinner">
+        </span>
         Fake
         email
-      </button></center>
+      </button>
+      </center>
       <Main />
       <Footer />
     </>

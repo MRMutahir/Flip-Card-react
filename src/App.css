@@ -1,4 +1,9 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.btn {
+  font-family: "Lilita One", cursive;
+  cursor: pointer;
+  font-size: 32px;
+}
